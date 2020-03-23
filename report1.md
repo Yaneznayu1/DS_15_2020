@@ -1,6 +1,6 @@
                                              Отчет по самостоятельной работе 1
                                                         Вариант15
-                                                    Магазин цветов
+                                                    Ремонт автомашин
 Цель: освоение базового уровня программирования Java.
 1) Код программы:
 
@@ -450,16 +450,18 @@ dlgAddElect.setVisible(false);
         }
 
 2) Интирфейс программы:
-![](https://github.com/NiKenguru/DS_13_2020/blob/Work-1/Menu.jpg)
-![](https://github.com/NiKenguru/DS_13_2020/blob/Work-1/1.jpg)
-![](https://github.com/NiKenguru/DS_13_2020/blob/Work-1/2.jpg)
-![](https://github.com/NiKenguru/DS_13_2020/blob/Work-1/3.jpg)
-![](https://github.com/NiKenguru/DS_13_2020/blob/Work-1/4.jpg)
-![](https://github.com/NiKenguru/DS_13_2020/blob/Work-1/5.jpg)
-![](https://github.com/NiKenguru/DS_13_2020/blob/Work-1/6.jpg)
-![](https://github.com/NiKenguru/DS_13_2020/blob/Work-1/7.jpg)
-![](https://github.com/NiKenguru/DS_13_2020/blob/Work-1/8.jpg)
-![](https://github.com/NiKenguru/DS_13_2020/blob/Work-1/9.jpg)
-![](https://github.com/NiKenguru/DS_13_2020/blob/Work-1/Results.jpg)
+![](https://github.com/Yaneznayu1/DS_15_2020/blob/Work-1/Menu.jpg)
+![](https://github.com/Yaneznayu1/DS_15_2020/blob/Work-1/1.jpg)
+![](https://github.com/Yaneznayu1/DS_15_2020/blob/Work-1/2.jpg)
+![](https://github.com/Yaneznayu1/DS_15_2020/blob/Work-1/3.jpg)
+![](https://github.com/Yaneznayu1/DS_15_2020/blob/Work-1/4.jpg)
+![](https://github.com/Yaneznayu1/DS_15_2020/blob/Work-1/5.jpg)
+![](https://github.com/Yaneznayu1/DS_15_2020/blob/Work-1/6.jpg)
+![](https://github.com/Yaneznayu1/DS_15_2020/blob/Work-1/7.jpg)
+![](https://github.com/Yaneznayu1/DS_15_2020/blob/Work-1/8.jpg)
+![](https://github.com/Yaneznayu1/DS_15_2020/blob/Work-1/9.jpg)
+![](https://github.com/Yaneznayu1/DS_15_2020/blob/Work-1/10.jpg)
+![](https://github.com/Yaneznayu1/DS_15_2020/blob/Work-1/11.jpg)
 
-Выводы: были освоены базовые уровни программирования Java.  
+Выводы: были освоены базовые уровни программирования Java.
+
